@@ -57,7 +57,7 @@ namespace DatabaseHP
             for (a = 1; a <= b; a++)
             {
                 Console.WriteLine(" " + a + ".\t" + kd_barang[a] + "\t  " + nm_barang[a] + "\t     " + kd_active[a] + "\t\t" + hrg_beli[a] + "\t\t" +
-                                hrg_jual[a]);
+                                hrg_jual[a]);s
             }
             Console.WriteLine();
             Console.Write("ENTER To Exit...");
